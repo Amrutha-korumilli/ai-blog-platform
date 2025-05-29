@@ -1,0 +1,4 @@
+.env
+#backend/app/venv/
+node_modules
+#frontend/app/.gitignore

@@ -1,0 +1,15 @@
+# Virtualenv
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Env file
+.env
+
+# DB or runtime
+instance/
+*.sqlite3
