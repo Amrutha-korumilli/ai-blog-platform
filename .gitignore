@@ -4,4 +4,3 @@
 # System files
 .DS_Store
 .env                # optional if both .env files are named the same
-.env.local
